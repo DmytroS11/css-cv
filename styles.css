@@ -49,6 +49,9 @@ a:visited {
         display: block;
         text-align: center;
     }
+    .info-text{
+        margin: 0px
+    }
 }
 
 .info-text{
